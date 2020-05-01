@@ -8,7 +8,7 @@
 
 * STEP 1: 提高自己眼界上限
   * 大綱：https://mubu.com/doc/G-tL_G9lGw
-  * 本文：https://shimo.im/docs/GgWVDGjTJ3vyvTGH/ 
+  * 本文：https://shimo.im/docs/GgWVDGjTJ3vyvTGH/
 * STEP 2 : 提高自己的用钱水平
   * 大綱：https://mubu.com/doc/MnahthETZw
   * 本文：https://shimo.im/docs/GJqGVkyyqKv8RTww/
@@ -22,7 +22,7 @@
 
 * Solution 1: 计算机思维解题
   * 大綱：https://share.mubu.com/doc/4xxlXomP_dw
-  * 本文：
+  * 本文：https://shimo.im/docs/JTqCHtQckTj9TJv8/ 
 * Solution 2: 逆向解题法
   * 大綱：https://mubu.com/doc/3rURMo0uztw
   * 本文：
