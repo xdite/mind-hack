@@ -1,0 +1,20 @@
+# Table of contents
+
+* [打造超人思维](README.md)
+* [STEP 1: 提高自己眼界上限](step-01.md)
+* [STEP 2 提升自己的用钱水平](step-02.md)
+* [STEP 3 :保护你的注意力](step-03.md)
+* [STEP 4: 历史总会不断的重复](step-04.md)
+* [old](old/README.md)
+  * [Summary](old/summary.md)
+  * [逆向思維](old/02.md)
+  * [编程思维](old/01.md)
+  * [前言](old/00.md)
+* [hack-07](hack-07.md)
+* [hack-06](hack-06.md)
+* [hack-05](hack-05.md)
+* [hack-04](hack-04.md)
+* [hack-03](hack-03.md)
+* [hack-02](hack-02.md)
+* [hack-01](hack-01.md)
+
