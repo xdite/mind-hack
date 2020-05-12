@@ -13,24 +13,10 @@
 
 ## 7 Solution
 
-* Solution 1: 计算机思维解题
-  * 大綱：https://share.mubu.com/doc/4xxlXomP_dw
-  * 本文：https://shimo.im/docs/JTqCHtQckTj9TJv8/
-* Solution 2: 逆向解题法
-  * 大綱：https://mubu.com/doc/3rURMo0uztw
-  * 本文：https://shimo.im/docs/xgWqTV996HvcjYQy/
-* Solution 3: 潜意识解題法
-  * 大綱：https://share.mubu.com/doc/3MdJBjVnCtw
-  * 本文：https://shimo.im/docs/qR9Kt9KjvCp9xKVX/
-* Solution 4: 概率解题法
-  * 大綱：https://share.mubu.com/doc/yKKmNc-vZw
-  * 本文：
-* Solution 5: 跨界解题法
-  * 大綱：https://share.mubu.com/doc/Y891vnZJw
-  * 本文：
-* Solution 6 : 分类解题法
-  * 大綱：https://share.mubu.com/doc/2U4Sn2bqLJw
-  * 本文：https://shimo.im/docs/v9K3yhyWdCHqrYvY/
-* Solution 7: 数学思维解题
-  * 大綱：https://share.mubu.com/doc/qyLIUB8bJw
-  * 本文
+* [Solution 1: 计算机思维解题](hack-01.md)
+* [Solution 2: 逆向解题法](hack-02.md)
+* [Solution 3: 潜意识解題法](hack-03.md)
+* [Solution 4: 概率解题法](hack-04.md)
+* [Solution 5: 跨界解题法](hack-05.md)
+* [Solution 6: 分类解题法](hack-06.md)
+* [Solution 7: 数学思维解题](hack-07.md)
