@@ -22,7 +22,7 @@
 
 * Solution 1: 计算机思维解题
   * 大綱：https://share.mubu.com/doc/4xxlXomP_dw
-  * 本文：https://shimo.im/docs/JTqCHtQckTj9TJv8/ 
+  * 本文：https://shimo.im/docs/JTqCHtQckTj9TJv8/
 * Solution 2: 逆向解题法
   * 大綱：https://mubu.com/doc/3rURMo0uztw
   * 本文：
@@ -37,7 +37,7 @@
   * 本文：
 * Solution 6 : 分类解题法
   * 大綱：https://share.mubu.com/doc/2U4Sn2bqLJw
-  * 本文：
+  * 本文：https://shimo.im/docs/v9K3yhyWdCHqrYvY/ 
 * Solution 7: 数学思维解题
   * 大綱：https://share.mubu.com/doc/qyLIUB8bJw
   * 本文
