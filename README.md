@@ -7,17 +7,9 @@
 ## 4 STEPS
 
 * [STEP 1: 提高自己眼界上限](step-01.md)
-  * 大綱：https://mubu.com/doc/G-tL_G9lGw
-  * 本文：https://shimo.im/docs/GgWVDGjTJ3vyvTGH/
-* STEP 2 : 提高自己的用钱水平
-  * 大綱：https://mubu.com/doc/MnahthETZw
-  * 本文：https://shimo.im/docs/GJqGVkyyqKv8RTww/
-* STEP 3 :保护你的注意力
-  * 大綱： https://mubu.com/doc/5XRVx_90NZw
-  * 本文：https://shimo.im/docs/Prhwp8rdhvJXVy6h/
-* STEP 4: 历史总会不断的重复
-  * 大綱： https://mubu.com/doc/tcaANQ9V1w
-  * 本文：https://shimo.im/docs/rGwhQv6YqtXgWHYj/
+* [STEP 2 : 提高自己的用钱水平](step-02.md)
+* [STEP 3 :保护你的注意力](step-03.md)
+* [STEP 4: 历史总会不断的重复](step-04.md)
 
 ## 7 Solution
 
