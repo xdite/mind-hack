@@ -24,7 +24,7 @@
 * [Solution 3: 潜意识解題法](hack-03.md)
   * V1 draft \( 写的不好，需要打掉重练\)
 * [Solution 4: 概率解题法](hack-04.md)
-  * V1 有影片逐字稿，但须重写成文章
+  * V1 完成
 * [Solution 5: 跨界解题法](hack-05.md)
   * V1 完成
 * [Solution 6: 分类解题法](hack-06.md)
