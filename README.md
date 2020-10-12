@@ -1,33 +1,24 @@
-# 打造超人思维
 
-* 打造超人大脑是框架
-* 打造超人思维是神经
-* 前言　[https://mubu.com/doc/5V8aOs3tm5w](https://mubu.com/doc/5V8aOs3tm5w)
+* [打造超人一等的思维](00.md)
 
-## 4 STEPS
+## 过去
 
-* [STEP 1: 提高自己眼界上限](step-01.md)
-  * V1 完成
-* [STEP 2 : 提高自己的用钱水平](step-02.md)
-  * V1 完成
-* [STEP 3 :保护你的注意力](step-03.md)
-  * V1 完成
-* [STEP 4: 历史总会不断的重复](step-04.md)
-  * V1 完成
+* [CH1 - 你的演算法决定了你的命运](01.md)
+* [CH2 - 加大你的资料库，强制更新演算法](02.md)
 
-## 7 Solution
+## 现在
 
-* [Solution 1: 计算机思维解题](hack-01.md)
-  * V1 完成
-* [Solution 2: 逆向解题法](hack-02.md)
-  * V1 完成
-* [Solution 3: 潜意识解題法](hack-03.md)
-  * V1 完成
-* [Solution 4: 概率解题法](hack-04.md)
-  * V1 完成
-* [Solution 5: 跨界解题法](hack-05.md)
-  * V1 完成
-* [Solution 6: 分类解题法](hack-06.md)
-  * V1 完成
-* [Solution 7: 数学思维解题](hack-07.md)
-  * V1 完成
+* [CH3 - 转换维度，找到全新视角](03.md)
+* [CH4 - 你以为的创新思路，其实是 3D 螺旋视角](04.md)
+* [CH5 - 将问题切碎之后的编程思维](05.md)
+* [CH6 - 探讨本质，重新映射跨界](06.md)
+
+## 未来
+
+* [CH7 - 学会概率让你更幸运](07.md)
+* [CH8 - 用数学的视角看问题](08.md)
+* [CH9 - 学习使用杠杆](09.md)
+
+## End
+
+* [结语](end.md)
