@@ -22,7 +22,7 @@ file_names.each do |file_name|
       puts "wget #{image_url} -O images/#{image_name}"
       system "wget #{image_url} -O images/#{image_name}"
 
-      new_contents = text.gsub(image_url, "images/#{image_name}")
+      new_contents.gsub!(image_url, "images/#{image_name}")
 
     end
   end
