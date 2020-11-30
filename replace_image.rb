@@ -5,7 +5,6 @@ file_names = Dir['*.md']
 
 file_names.each do |file_name|
   text = File.read(file_name)
-  puts text
   # new_contents = text.gsub(/```\n\n\n\!\[\]\(.+\)/, "```")
   new_contents = text
 
